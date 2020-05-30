@@ -1,0 +1,25 @@
+{
+  "comics": [{
+      "title": "Example #1",
+      "author": "Daniel Sousa",
+      "author_url": "http://twitter.com/bomdiavermes",
+      "number_of_pages": 3,
+      "folder": "example-comic-01",
+      "image_format": "jpg",
+      "url_slug": "example-01",
+      "previous_chapter_url_slug": "",
+      "next_chapter_url_slug": "example-02"
+    },
+    {
+      "title": "Example #2",
+      "author": "Daniel Sousa",
+      "author_url": "http://twitter.com/bomdiavermes",
+      "number_of_pages": 3,
+      "folder": "example-comic-02",
+      "image_format": "jpg",
+      "url_slug": "example-02",
+      "previous_chapter_url_slug": "example-01",
+      "next_chapter_url_slug": ""
+    }
+  ]
+}
