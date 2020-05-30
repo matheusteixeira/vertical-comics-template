@@ -1,0 +1,16 @@
+body {
+  text-align: center;/* hack for ie5*/
+  margin: 0px;
+  padding: 0px;
+}
+.central {
+  margin-right: auto;/*centres in compliant browsers*/
+  margin-left: auto;/* "  " */
+  width: 755px;
+  text-align: left;
+}
+
+/* Customize from here */
+body {
+  background-color: #e8e5dc;
+}
