@@ -2,6 +2,8 @@
 - This is a responsive self-hosted comics template generator aimed to be as easy as possible to host new issues
 - Here is a [live example](http://podcastdequadrinhos.com.br/testmtxr/index.html) of a generated website with two issues
 
+If you're using it please share your experience, it'll be very nice to know!
+
 ## Requirements
 - Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
