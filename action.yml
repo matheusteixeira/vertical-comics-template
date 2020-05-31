@@ -1,0 +1,6 @@
+# action.yml
+name: 'VerticEllis'
+description: 'Use VerticEllis to create/update a GitHub pages site'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
