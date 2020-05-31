@@ -1,6 +1,8 @@
 ## Verticellis
 - This is a responsive self-hosted comics template generator aimed to be as easy as possible to host new issues
-- Here is a (live example)[http://podcastdequadrinhos.com.br/testmtxr/index.html] of a generated website with two issues
+- Here is a [live example](http://podcastdequadrinhos.com.br/testmtxr/index.html) of a generated website with two issues
+
+If you're using it please share your experience, it'll be very nice to know!
 
 ## Requirements
 - Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
@@ -9,7 +11,7 @@
 - Download this repository
 - Create a new folder at public/ with the name of your comic (like the examples)
 - Upload your pages numbered (i.e.: 1.jpg, 2.jpg)
-- Change the filme manifest.json with each comic information, for add new ones just add a comma to after the close curly bracket
+- Change the file `src/manifest.json` with each comic information, for add new ones just add a comma to after the close curly bracket
   ```
         "title": "Example #1",
         "author": "Daniel Sousa",
