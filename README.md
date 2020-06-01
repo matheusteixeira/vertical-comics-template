@@ -33,3 +33,6 @@ If you're using it please share your experience, it'll be very nice to know!
 ## Acknowledgments
 - Example Comic are some pages from the amazing Daniel Sousa, [check out his work](http://twitter.com/bomdiavermes)!
 - This entire idea came from Warren Ellis' (hence the terrible project name) Newsletter, [subscribe to it](http://orbitaloperations.com/)!
+
+
+Buy me a coffee on [Ko-fi](https://ko-fi.com/matheusteixeira)
